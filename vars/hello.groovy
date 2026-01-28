@@ -1,3 +1,1 @@
-def(){
- echo " hello good morning"
-}
+hello sameer
